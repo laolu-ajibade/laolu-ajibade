@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laolu-ajibade
 - 👀 I’m interested in software development, technical writing and reading
-- 🌱 I’m currently learning. 
+- 🌱 ... 
 
 <!---
 laolu-ajibade/laolu-ajibade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
